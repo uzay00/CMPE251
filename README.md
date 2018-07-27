@@ -8,5 +8,5 @@ Then use it to create a combined lyric of various singers.
 > we are defining a different relation, which determines a connection between two sentences if there is a “similarity” relation between them, where “similarity” is measured as a function of their content overlap.
 
 <p align="center">
-  <img src="similarity.png" width="350"/>
+  <img src="similairty.png" width="350"/>
 </p>
