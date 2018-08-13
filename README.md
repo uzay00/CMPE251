@@ -3,6 +3,7 @@ Course web site: https://ects.bilgi.edu.tr/Course/Detail?catalog_courseId=380394
 
 
 
+__Algorithm vs Machine Learning__
 > We have in mind some desired mapping from inputs to outputs, but it's not something that's possible
 for us to necessarily specify in a precise way and so we collect a training set of (X,y) examples.
 The learning machine takes this training set and uses it to pick a mapping from X to Y. 
