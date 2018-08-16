@@ -9,6 +9,10 @@ for us to necessarily specify in a precise way and so we collect a training set 
 The learning machine takes this training set and uses it to pick a mapping from X to Y. 
 
 
+
+### Analyse Emotion embedded in English Words
+Use NRC Lexicon: https://saifmohammad.com/WebPages/nrc-vad.html
+
 ### 1st Project: Create a New Elvis Presley Song Lyric
 Use __textrank algorithm__ to create a new song lyric from a popular singer. 
 Then use it to create a combined lyric of various singers.
