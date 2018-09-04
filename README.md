@@ -1,7 +1,8 @@
 # CMPE 251 : Data Science and Social Media Analysis
 Course web site: https://ects.bilgi.edu.tr/Course/Detail?catalog_courseId=3803945
 
-
+Edx Course for Analytics in Python
+- https://courses.edx.org/courses/course-v1:ColumbiaX+BAMM.101x+2T2017/course/
 
 __Algorithm vs Machine Learning__
 > We have in mind some desired mapping from inputs to outputs, but it's not something that's possible
