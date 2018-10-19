@@ -13,4 +13,8 @@ https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 
 ## Intro 2 ML
  - https://github.com/uzay00/KaVe/blob/master/2018/Lecture2/Lecture%202.ipynb
+ 
+ 
+ ## Titanic Data
+  - https://www.dataquest.io/blog/kaggle-fundamentals/
 
