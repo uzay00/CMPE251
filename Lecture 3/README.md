@@ -17,4 +17,12 @@ https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
  
  ## Titanic Data
   - https://www.dataquest.io/blog/kaggle-fundamentals/
+  
+ #### Dataset
+ Train
+ -  https://raw.githubusercontent.com/uzay00/KaVe/master/2018/Lecture3/data/train.csv
+ 
+ Test
+ 
+ - https://raw.githubusercontent.com/uzay00/KaVe/master/2018/Lecture3/data/test.csv
 
