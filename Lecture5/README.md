@@ -3,13 +3,13 @@
 
 
 ## Today's topic
- - ML review
+1. ML review
   - common points between linearREgression(), logisticEgression(), polynomialRegression()
- - Intro 2 Text Mining
+2. Intro 2 Text Mining
   - Bag of words Model
   - TF-IDF Model
   - Text Cleaning
- - Aplication: Sentiment Analysis
+3. Aplication: Sentiment Analysis
  
 ## Term Project Description
  - Positive/Neative/Objective comment Detection on EksiSozluk
