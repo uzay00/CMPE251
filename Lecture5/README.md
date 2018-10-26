@@ -10,6 +10,9 @@
   - TF-IDF Model
   - Text Cleaning
 3. Aplication: Sentiment Analysis
+ - Test on Twitter 
+
+4. Text Summarization
  
 ## Term Project Description
  - Positive/Neative/Objective comment Detection on EksiSozluk
