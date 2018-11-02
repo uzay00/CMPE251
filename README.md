@@ -46,6 +46,7 @@ Use this link to write the name of the project, your data source and your team m
 
 > The most critical part of your project is the correctness of your traninig labeled data. If your data is not good, you will receive very low points. 
 
+<br>
 ### 1. Sentiment Analysis On EksiSozluk
 
 __Data Collection__
@@ -61,6 +62,7 @@ Each group MUST have different data sources. Different "gundem" topics from Eksi
  __Machine Learning__
  Use ML algorithms for Sentiment Analysis On EksiSozluk. Indicate your results.
  
+ <br><br>
  ### 2. Fake News Detection
  
 __Data Collection__
@@ -73,7 +75,7 @@ You will get data from Zaytung and normal newspapers websites with web scraper.
  __Machine Learning__
  Use ML algorithms for Sentiment Analysis On EksiSozluk. Indicate your results.
  
- 
+ <br><br>
  ### 3. Create a New Elvis Presley Song Lyric
  __Data Collection__
 Use NRC [Emotion Lexicon](https://saifmohammad.com/WebPages/nrc-vad.html) and Kaggle [song lyrics](https://www.kaggle.com/mousehead/songlyrics) dataset
