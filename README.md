@@ -28,6 +28,24 @@
 5. Web Scraping
  - _Application_ : ukitap
  
+ 
+## Projects
+
+### Sentiment Analysis On EksiSozluk
+
+__Data Collection__
+You will get data from eksisozluk with web scraper. Each student will label 500 comments on eksi. 5 label means 5 class.
+ - 5 Very Positive
+ - 4 Positive
+ - 3 Neutral
+ - 2 Negative
+ - 1 Very Negative
+ 
+ __Machine Learning__
+ 
+ Use ML algorithms for Sentiment Analysis On EksiSozluk. Indicate your results.
+ 
+ 
  ## Notes
 Course web site: https://ects.bilgi.edu.tr/Course/Detail?catalog_courseId=3803945
 
