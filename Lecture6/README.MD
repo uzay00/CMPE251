@@ -12,9 +12,14 @@
  - [Isolation Forest](http://nbviewer.jupyter.org/github/uzay00/CMPE251/blob/master/Lecture6/Isolation%20Forest.ipynb)
  - _Application_ : [Google Trend Data](https://trends.google.com.tr/trends/explore?date=today%205-y&geo=TR&q=darbe)
 
-3. Text Summarization
+3. Intro 2 Text Mining
+ - TF-IDF explained
+ - [Creating Text Mining Model] (https://github.com/uzay00/CMPE251/blob/master/Lecture5/Intro2TextMining/1-Create%20Text%20Mining%20Model.ipynb)
+ - [Test with pre-trained model] (http://nbviewer.jupyter.org/github/uzay00/CMPE251/blob/master/Lecture5/Intro2TextMining/2-Test%20predefined%20model%20on%20a%20new%20data.ipynb)
+
+4. Text Summarization
  - Algorithm to Extract Summary
  - _Application_ : Summary of Wikipedia page
  
-4. Web Scraping
+5. Web Scraping
  - _Application_ : ukitap
