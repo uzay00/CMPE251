@@ -9,7 +9,7 @@
  
 2. Anomaly Detection
  - 3 Sigma Rule
- - Isolation Forest
+ - [Isolation Forest](http://nbviewer.jupyter.org/github/uzay00/CMPE251/blob/master/Lecture6/Isolation%20Forest.ipynb)
  - _Application_ : [Google Trend Data](https://trends.google.com.tr/trends/explore?date=today%205-y&geo=TR&q=darbe)
  
 3. Text Summarization
