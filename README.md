@@ -7,7 +7,7 @@ Course [Web Site](https://ects.bilgi.edu.tr/Course/Detail?catalog_courseId=38039
 
 1. Compare Basic Machine Learning Algorithms
  - LinearRegression
- - LogisticRegression
+ - [LogisticRegression](http://nbviewer.jupyter.org/github/uzay00/CMPE251/blob/master/Lecture%204/Titanic.ipynb)
  - Decision Tree
  - _Application_: [Introduction](http://nbviewer.jupyter.org/github/uzay00/CMPE251/blob/master/Lecture%204/Intro%20to%20ML.ipynb) and [Test on synthethic data](http://nbviewer.jupyter.org/github/uzay00/CMPE251/blob/master/Lecture6/Compare%20ML%20algorithms.ipynb)
  
