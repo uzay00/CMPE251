@@ -38,6 +38,13 @@ Course [Web Site](https://ects.bilgi.edu.tr/Course/Detail?catalog_courseId=38039
 
 As course advances we will add more alternative projects. You must do at least one project. You can also propose a new project. 
 
+
+Below you can find the link for determining your project groups.
+ - http://bit.ly/CMPE251Projects18
+Use this link to write the name of the project, your data source and your team mates and the name of your team.
+
+> The most critical part of your project is the correctness of your traninig labeled data. If your data is not good, you will receive very low points. 
+
 ### 1. Sentiment Analysis On EksiSozluk
 
 __Data Collection__
@@ -47,6 +54,8 @@ You will get data from eksisozluk with web scraper. Each student will label 500 
  - 3 Neutral
  - 2 Negative
  - 1 Very Negative
+ 
+Each group MUST have different data sources. Different "gundem" topics from Eksisozluk.
  
  __Machine Learning__
  Use ML algorithms for Sentiment Analysis On EksiSozluk. Indicate your results.
