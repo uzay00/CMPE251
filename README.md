@@ -33,7 +33,7 @@ Course [Web Site](https://ects.bilgi.edu.tr/Course/Detail?catalog_courseId=38039
 5. Web Scraping
  - _Application_ : ukitap
  
- 
+<br><br><br><br> 
 ## Projects
 
 As course advances we will add more alternative projects. You must do at least one project. You can also propose a new project. 
