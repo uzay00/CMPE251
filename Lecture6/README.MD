@@ -1,5 +1,5 @@
 
-## To Do
+## Topics Covered So Far
 
 1. Compare Basic Machine Learning Algorithms
  - LinearRegression
@@ -20,7 +20,7 @@
 
 4. Text Summarization
  - Algorithm to Extract Summary
- - _Application_ : Summary of Wikipedia page
+ - _Application_ : [Summary of Wikipedia page](http://nbviewer.jupyter.org/github/uzay00/CMPE251/blob/master/Lecture7/Text%20summarization/Text%20Summarization.ipynb)
  
 5. Web Scraping
  - _Application_ : ukitap
