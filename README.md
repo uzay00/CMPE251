@@ -41,6 +41,7 @@ As course advances we will add more alternative projects. You must do at least o
 
 Below you can find the link for determining your project groups.
  - http://bit.ly/CMPE251Projects18
+ 
 Use this link to write the name of the project, your data source and your team mates and the name of your team.
 
 > The most critical part of your project is the correctness of your traninig labeled data. If your data is not good, you will receive very low points. 
