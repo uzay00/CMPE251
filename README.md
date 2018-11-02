@@ -42,9 +42,24 @@ You will get data from eksisozluk with web scraper. Each student will label 500 
  - 1 Very Negative
  
  __Machine Learning__
- 
  Use ML algorithms for Sentiment Analysis On EksiSozluk. Indicate your results.
  
+ ### Fake News Detection
+ 
+__Data Collection__
+You will get data from Zaytung and normal newspapers websites with web scraper. 
+
+ - Zaytung news: 1
+ - Normal newspapers: 0
+
+ 
+ __Machine Learning__
+ Use ML algorithms for Sentiment Analysis On EksiSozluk. Indicate your results.
+ 
+ 
+ 
+ 
+ <br> <br> <br> <br> <br>
  
  ## Notes
 Course web site: https://ects.bilgi.edu.tr/Course/Detail?catalog_courseId=3803945
