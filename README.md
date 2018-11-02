@@ -47,6 +47,7 @@ Use this link to write the name of the project, your data source and your team m
 > The most critical part of your project is the correctness of your traninig labeled data. If your data is not good, you will receive very low points. 
 
 <br>
+
 ### 1. Sentiment Analysis On EksiSozluk
 
 __Data Collection__
