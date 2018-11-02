@@ -16,7 +16,7 @@
 3. Intro 2 Text Mining
  - [TF-IDF explained](http://nbviewer.jupyter.org/github/uzay00/CMPE251/blob/master/Lecture5/TF-IDF/TF-IDF%20Explained.ipynb)
  - [Creating Text Mining Model](https://github.com/uzay00/CMPE251/blob/master/Lecture5/Intro2TextMining/1-Create%20Text%20Mining%20Model.ipynb)
- - [Test with pre-trained model](http://nbviewer.jupyter.org/github/uzay00/CMPE251/blob/master/Lecture5/Intro2TextMining/2-Test%20predefined%20model%20on%20a%20new%20data.ipynb)
+ - [Test on Twitter with pre-trained model](http://nbviewer.jupyter.org/github/uzay00/CMPE251/blob/master/Lecture5/Intro2TextMining/2-Test%20predefined%20model%20on%20a%20new%20data.ipynb)
 
 4. Text Summarization
  - Algorithm to Extract Summary
