@@ -31,7 +31,9 @@
  
 ## Projects
 
-### Sentiment Analysis On EksiSozluk
+As course advances we will add more alternative projects. You must do at least one project. You can also propose a new project. 
+
+### 1. Sentiment Analysis On EksiSozluk
 
 __Data Collection__
 You will get data from eksisozluk with web scraper. Each student will label 500 comments on eksi. 5 label means 5 class.
@@ -44,7 +46,7 @@ You will get data from eksisozluk with web scraper. Each student will label 500 
  __Machine Learning__
  Use ML algorithms for Sentiment Analysis On EksiSozluk. Indicate your results.
  
- ### Fake News Detection
+ ### 2. Fake News Detection
  
 __Data Collection__
 You will get data from Zaytung and normal newspapers websites with web scraper. 
