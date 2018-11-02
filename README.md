@@ -5,6 +5,8 @@ Course [Web Site](https://ects.bilgi.edu.tr/Course/Detail?catalog_courseId=38039
 
 ## Topics Covered So Far
 
+0. Introduction
+ - [Python Libraries](http://nbviewer.jupyter.org/github/uzay00/CMPE251/blob/master/Lecture1%20and%202/Very%20First%20Lecture%20%20-%20Python%20Programming.ipynb)
 1. Compare Basic Machine Learning Algorithms
  - LinearRegression
  - [LogisticRegression](http://nbviewer.jupyter.org/github/uzay00/CMPE251/blob/master/Lecture%204/Titanic.ipynb)
