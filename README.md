@@ -31,7 +31,7 @@ Course [Web Site](https://ects.bilgi.edu.tr/Course/Detail?catalog_courseId=38039
  - _Application_ : [Summary of Wikipedia page](http://nbviewer.jupyter.org/github/uzay00/CMPE251/blob/master/Lecture7/Text%20summarization/Text%20Summarization.ipynb)
  
 5. Web Scraping
- - _Application_ : ukitap
+ - _Application_ : Berkay Öztürk's talk on [UKitapScraper](https://github.com/ozturkberkay/UKitapScraper)
  
 <br><br><br><br> 
 ## Projects
