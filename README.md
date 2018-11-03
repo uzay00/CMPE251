@@ -13,7 +13,7 @@ Course [Web Site](https://ects.bilgi.edu.tr/Course/Detail?catalog_courseId=38039
  - LinearRegression
  - [LogisticRegression](http://nbviewer.jupyter.org/github/uzay00/CMPE251/blob/master/Lecture%204/Titanic.ipynb)
  - Decision Tree
- - _Application_: [Introduction](http://nbviewer.jupyter.org/github/uzay00/CMPE251/blob/master/Lecture%204/Intro%20to%20ML.ipynb) and [Test on synthethic data](http://nbviewer.jupyter.org/github/uzay00/CMPE251/blob/master/Lecture6/Compare%20ML%20algorithms.ipynb)
+ - _Application_: [Introduction](http://nbviewer.jupyter.org/github/uzay00/CMPE251/blob/master/Lecture%204/Intro%20to%20ML.ipynb) and test and compare different algorithms [on synthethic data](http://nbviewer.jupyter.org/github/uzay00/CMPE251/blob/master/Lecture6/Compare%20ML%20algorithms.ipynb)
  
  
 2. Anomaly Detection [Kaggle Kernel](https://www.kaggle.com/pavansanagapati/anomaly-detection-credit-card-fraud-analysis)
