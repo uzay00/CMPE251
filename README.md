@@ -33,6 +33,10 @@ Course [Web Site](https://ects.bilgi.edu.tr/Course/Detail?catalog_courseId=38039
 5. Web Scraping
  - _Application_ : Berkay Öztürk's talk on [UKitapScraper](https://github.com/ozturkberkay/UKitapScraper)
  
+6. Fundamentals of Machine Learning From Data
+- [Learning From Data](https://github.com/uzay00/CMPE251/blob/master/Lecture1%20and%202/yapayzekapdf.pdf)
+- Test [on synthethic data](http://nbviewer.jupyter.org/github/uzay00/CMPE251/blob/master/Lecture6/Compare%20ML%20algorithms.ipynb)
+
 <br><br><br><br> 
 ## Projects
 
