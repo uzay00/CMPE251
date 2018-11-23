@@ -37,6 +37,15 @@ Course [Web Site](https://ects.bilgi.edu.tr/Course/Detail?catalog_courseId=38039
 - [Learning From Data](http://nbviewer.jupyter.org/github/uzay00/CMPE251/blob/master/Lecture1%20and%202/yapayzekapdf.pdf)
 - Test [on synthethic data](http://nbviewer.jupyter.org/github/uzay00/CMPE251/blob/master/Lecture6/Compare%20ML%20algorithms.ipynb)
 
+7. Midterm Questions
+8. Machine Learning
+ - Unsupervised Learning: Kmeans
+ - Supervised Learning: ANN
+ - chatbot
+ - Political Analysis
+9.
+
+
 <br><br><br><br> 
 ## Projects
 
