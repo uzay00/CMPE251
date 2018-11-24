@@ -101,6 +101,14 @@ Then use it to create a combined lyric of various singers.
 
 > we are defining a different relation, which determines a connection between two sentences if there is a “similarity” relation between them, where “similarity” is measured as a function of their content overlap.
 
+__Task__ Create new songs of some artists based on 2 algorıthms
+ - Simple [text summarizatioh] (http://nbviewer.jupyter.org/github/uzay00/CMPE251/blob/master/Lecture7/Text%20summarization/Text%20Summarization.ipynb)
+ - Text summarization based on [textrank algorithm](https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf)
+ 
+And compare the results.
+
+
+
 <p align="center">
   <img src="similairty.png" width="350"/>
 </p>
