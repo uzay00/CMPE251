@@ -111,6 +111,16 @@ __Task__ Create new songs of some artists based on 2 algorıthms
 And compare the results.
 
 
+ <br><br> 
+ ### 4. Compare Unsupervised Anomaly Detection Algorithms
+2 datasets
+ - https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/OPQMVF/GIPF3O&version=1.0
+ - https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/OPQMVF/MTUJ5F&version=1.0
+ 
+3 algorithms
+ - Isolation Forest
+ - Self-organizing maps
+ - Local Outlier Factor
 
 <p align="center">
   <img src="similairty.png" width="350"/>
