@@ -87,7 +87,7 @@ You will get data from Zaytung and normal newspapers websites with web scraper.
 
 Before you might need to look for irony detection
  - [irony detection in Turkish 1](http://ceur-ws.org/Vol-2201/UYMS_2018_paper_1.pdf) 
- -[irony detection in Turkish 2](http://etd.lib.metu.edu.tr/upload/12617981/index.pdf)
+ - [irony detection in Turkish 2](http://etd.lib.metu.edu.tr/upload/12617981/index.pdf)
  
  __Machine Learning__
  Use ML algorithms for Sentiment Analysis On EksiSozluk. Indicate your results.
