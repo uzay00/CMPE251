@@ -122,6 +122,4 @@ And compare the results.
  - Self-organizing maps
  - Local Outlier Factor
 
-<p align="center">
-  <img src="similairty.png" width="350"/>
-</p>
+
