@@ -85,6 +85,9 @@ You will get data from Zaytung and normal newspapers websites with web scraper.
  - Zaytung news: 1
  - Normal newspapers: 0
 
+Before you might need to look for irony detection
+ - [irony detection in Turkish 1](http://ceur-ws.org/Vol-2201/UYMS_2018_paper_1.pdf) 
+ -[irony detection in Turkish 2](http://etd.lib.metu.edu.tr/upload/12617981/index.pdf)
  
  __Machine Learning__
  Use ML algorithms for Sentiment Analysis On EksiSozluk. Indicate your results.
@@ -102,7 +105,7 @@ Then use it to create a combined lyric of various singers.
 > we are defining a different relation, which determines a connection between two sentences if there is a “similarity” relation between them, where “similarity” is measured as a function of their content overlap.
 
 __Task__ Create new songs of some artists based on 2 algorıthms
- - Simple [text summarizatioh] (http://nbviewer.jupyter.org/github/uzay00/CMPE251/blob/master/Lecture7/Text%20summarization/Text%20Summarization.ipynb)
+ - Simple [text summarization](http://nbviewer.jupyter.org/github/uzay00/CMPE251/blob/master/Lecture7/Text%20summarization/Text%20Summarization.ipynb)
  - Text summarization based on [textrank algorithm](https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf)
  
 And compare the results.
