@@ -141,12 +141,12 @@ You can also see here, updated time slots.
   - I will take the CD-ROM but not the USB
 
 
-| Attempt | #1  | #2  |
+| Group Name | 	Project Name  | Presentation Time 21 December 2018 |
 | :---:   | :-: | :-: |
-| Seconds | 301 | 283 |
+| SpaceX | Sentiment Classification on EksiSozluk | 09:00-09:10 |
 
-Group Name	Project Name	Presentation Time 21 December 2018
-SpaceX	Sentiment Classification on EksiSozluk	09:00-09:10
+	
+		
 Lord of The Electronics	Sentiment Classification on EksiSozluk	09:10-09:20
 Plekumatlar Back..!	Sentiment Classificatiion on EksiSozluk	09:20-09:30
 Meşhur Sarıyer Börekçileri	Sentiment Classification on EksiSozluk	09:30-09:40
