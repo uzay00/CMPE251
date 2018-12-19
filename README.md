@@ -153,7 +153,7 @@ You can also see here, updated time slots.
 |Placeholder|	Fake News Detection|	10:10-10:20|
 |Al Gore Rhythms|	Sentiment Classification on EksiSozluk|	10:20-10:30|
 |the procrastinators|	Anamoly Detection|	10:30-10:40|
-|NoName	Fake News Detection|	10:40-10:50|
+|NoName|	Fake News Detection|	10:40-10:50|
 |DSML|	Create a New Elvis Presley Song Lyric|	10:50-11:00|
 |CilginFurkan|	Eksi|	11:00-11:05|
 |SarpAlkan|	Sentiment Classificatiion on EksiSozluk|	11:05-11:10|
