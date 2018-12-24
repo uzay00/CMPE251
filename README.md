@@ -123,3 +123,39 @@ And compare the results.
  - Local Outlier Factor
 
 
+
+<br><br><br><br> 
+## Project Presentations
+
+Dear students,
+
+I updated the time slots for CMPE 251 projects. Go to the following link below, to see the updated time slots
+
+ - http://bit.ly/CMPE251Projects18
+
+You can also see here, updated time slots.
+
+ - Please come 10 minutes earlier than your presentation time!!
+ - Bring printed version of your project report with you
+ - Your project code&data&report&slides should be given within a CD-ROM & USB 
+  - I will take the CD-ROM but not the USB
+
+
+| Group Name | 	Project Name  | Presentation Time 21 December 2018 |
+| :---:   | :-: | :-: |
+| SpaceX | Sentiment Classification on EksiSozluk | 09:00-09:10 |	
+|Lord of The Electronics|	Sentiment Classification on EksiSozluk|	09:10-09:20|
+|Plekumatlar Back..!|	Sentiment Classificatiion on EksiSozluk|	09:20-09:30|
+|Meşhur Sarıyer Börekçileri|	Sentiment Classification on EksiSozluk|	09:30-09:40|
+|hatefuleight|	Sentiment Classification on EksiSozluk|	09:40-09:45|
+|Kumpir|	Sentiment Classification on EksiSozluk|	09:50-10:00|
+|In Zemberek We Trust|	Fake News Detection|	10:00-10:10|
+|Placeholder|	Fake News Detection|	10:10-10:20|
+|Al Gore Rhythms|	Sentiment Classification on EksiSozluk|	10:20-10:30|
+|the procrastinators|	Anamoly Detection|	10:30-10:40|
+|NoName|	Fake News Detection|	10:40-10:50|
+|DSML|	Create a New Elvis Presley Song Lyric|	10:50-11:00|
+|CilginFurkan|	Eksi|	11:00-11:05|
+|SarpAlkan|	Sentiment Classificatiion on EksiSozluk|	11:05-11:10|
+|Genesis|	Sentiment Classificatiion on EksiSozluk|	11:10-11:15|
+|1789 aksaray|	sentiment classification on EksiSozluk|	11:15-11:25|
