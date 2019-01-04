@@ -38,13 +38,20 @@ Course [Web Site](https://ects.bilgi.edu.tr/Course/Detail?catalog_courseId=38039
 - Test [on synthethic data](http://nbviewer.jupyter.org/github/uzay00/CMPE251/blob/master/Lecture6/Compare%20ML%20algorithms.ipynb)
 
 7. Midterm Questions
-8. Machine Learning
- - Unsupervised Learning: Kmeans
- - Supervised Learning: ANN
- - chatbot
- - Political Analysis
-9.
+8. Predict political party based on votes
+ - [Simple chatbot] (https://github.com/uzay00/CMPE251/blob/master/Lecture9/Chatbot.ipynb)
+ - [Political Analysis](https://github.com/uzay00/CMPE251/blob/master/Lecture9/DeepLearning/PoliticsExercise.ipynb)
+ - [Political Data Science](https://github.com/uzay00/CMPE251/blob/master/Lecture9/SiyasalYonelim/589_UzayCetin_YunusEmre.pdf)
+9. [Supervised Learning: ANN](https://github.com/uzay00/CMPE251/blob/master/Lecture9/ANN/ann/ann_homework_solution.py)
+ - [Keras Deep Learning Library](https://github.com/uzay00/CMPE251/blob/master/Lecture9/ANN/Keras.pdf)
+ - [Recognize handwritten numbers](https://github.com/uzay00/CMPE251/blob/master/Lecture10/Intro2Keras.ipynb)
 
+10. Advanced NLP
+ - [wor2vec on Hurriyet](https://github.com/uzay00/CMPE251/blob/master/Lecture10/2-%20word2vec/word2vec-original.ipynb)
+ - [Turkish NLP Library Zemberek](https://github.com/uzay00/CMPE251/blob/master/Lecture11/ZemberekConnection.ipynb)
+
+11. Unsupervised Learning
+ - Kmeans
 
 <br><br><br><br> 
 ## Projects
