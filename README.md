@@ -39,7 +39,6 @@ Course [Web Site](https://ects.bilgi.edu.tr/Course/Detail?catalog_courseId=38039
 
 7. Midterm Questions
 8. Predict political party based on votes
- - [Simple chatbot] (https://github.com/uzay00/CMPE251/blob/master/Lecture9/Chatbot.ipynb)
  - [Political Analysis](https://github.com/uzay00/CMPE251/blob/master/Lecture9/DeepLearning/PoliticsExercise.ipynb)
  - [Political Data Science](https://github.com/uzay00/CMPE251/blob/master/Lecture9/SiyasalYonelim/589_UzayCetin_YunusEmre.pdf)
 9. [Supervised Learning: ANN](https://github.com/uzay00/CMPE251/blob/master/Lecture9/ANN/ann/ann_homework_solution.py)
@@ -48,10 +47,18 @@ Course [Web Site](https://ects.bilgi.edu.tr/Course/Detail?catalog_courseId=38039
 
 10. Advanced NLP
  - [wor2vec on Hurriyet](https://github.com/uzay00/CMPE251/blob/master/Lecture10/2-%20word2vec/word2vec-original.ipynb)
+ - [Doc2Vec](https://github.com/uzay00/CMPE251/blob/master/Lecture12/Clustering/Simple%20Doc2vec.ipynb)
  - [Turkish NLP Library Zemberek](https://github.com/uzay00/CMPE251/blob/master/Lecture11/ZemberekConnection.ipynb)
-
-11. Unsupervised Learning
- - Kmeans
+ - [Simple chatbot](https://github.com/uzay00/CMPE251/blob/master/Lecture9/Chatbot.ipynb)
+ 
+11. [Unsupervised Learning](https://github.com/uzay00/CMPE251/blob/master/Lecture12/Clustering/Kmeans.ipynb)
+ - [Kmeans and hierarchical clustering](https://github.com/uzay00/CMPE251/blob/master/Lecture12/Clustering/Unsupervised%20Learning.ipynb)
+ 
+12. Network Analysis
+ - [networkx library](https://github.com/uzay00/CMPE251/blob/master/Lecture12/Clustering/Network%20analysis.ipynb)
+ - [Social Network Analysis with Python](https://github.com/uzay00/CMPE251/blob/master/Lecture12/NetworkAnalysis/1%20Network%20Olusturmak.ipynb)
+ , [2](https://github.com/uzay00/CMPE251/blob/master/Lecture12/NetworkAnalysis/2%20Ag%20Analizi.ipynb)
+ - [Game of Thrones](https://github.com/uzay00/CMPE251/blob/master/Lecture12/NetworkAnalysis/4%20Game%20of%20Thrones%20-%20Inceleme.ipynb)
 
 <br><br><br><br> 
 ## Projects
