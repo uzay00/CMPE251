@@ -47,7 +47,6 @@ Course [Web Site](https://ects.bilgi.edu.tr/Course/Detail?catalog_courseId=38039
 
 10. Advanced NLP
  - [wor2vec on Hurriyet](https://github.com/uzay00/CMPE251/blob/master/Lecture10/2-%20word2vec/word2vec-original.ipynb)
- - [Doc2Vec](https://github.com/uzay00/CMPE251/blob/master/Lecture12/Clustering/Simple%20Doc2vec.ipynb)
  - [Turkish NLP Library Zemberek](https://github.com/uzay00/CMPE251/blob/master/Lecture11/ZemberekConnection.ipynb)
  - [Simple chatbot](https://github.com/uzay00/CMPE251/blob/master/Lecture9/Chatbot.ipynb)
  
