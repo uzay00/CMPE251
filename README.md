@@ -56,7 +56,7 @@ Course [Web Site](https://ects.bilgi.edu.tr/Course/Detail?catalog_courseId=38039
 12. Network Analysis
  - [networkx library](https://github.com/uzay00/CMPE251/blob/master/Lecture12/Clustering/Network%20analysis.ipynb)
  - [Social Network Analysis with Python](https://github.com/uzay00/CMPE251/blob/master/Lecture12/NetworkAnalysis/1%20Network%20Olusturmak.ipynb)
- , [2](https://github.com/uzay00/CMPE251/blob/master/Lecture12/NetworkAnalysis/2%20Ag%20Analizi.ipynb)
+ - [Centrality measures](https://github.com/uzay00/CMPE251/blob/master/Lecture12/NetworkAnalysis/2%20Ag%20Analizi.ipynb)
  - [Game of Thrones](https://github.com/uzay00/CMPE251/blob/master/Lecture12/NetworkAnalysis/4%20Game%20of%20Thrones%20-%20Inceleme.ipynb)
 
 <br><br><br><br> 
